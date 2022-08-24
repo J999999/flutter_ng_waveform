@@ -1,0 +1,37 @@
+PODS:
+  - EZAudio (1.1.5):
+    - EZAudio/Full (= 1.1.5)
+  - EZAudio/Core (1.1.5)
+  - EZAudio/Full (1.1.5):
+    - EZAudio/Core
+    - TPCircularBuffer (= 1.1)
+  - Flutter (1.0.0)
+  - flutter_ng_waveform (0.0.1):
+    - EZAudio
+    - Flutter
+  - TPCircularBuffer (1.1)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_ng_waveform (from `.symlinks/plugins/flutter_ng_waveform/ios`)
+
+SPEC REPOS:
+  trunk:
+    - EZAudio
+    - TPCircularBuffer
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_ng_waveform:
+    :path: ".symlinks/plugins/flutter_ng_waveform/ios"
+
+SPEC CHECKSUMS:
+  EZAudio: 3b1cb4b6d7ebca68f0c2478576d75940aad4aa99
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_ng_waveform: 49ed2f5218ee327ec435b79c454ac5df0a42d144
+  TPCircularBuffer: 4960a919e667280f7f38963d771f45871b64fe62
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.11.3
