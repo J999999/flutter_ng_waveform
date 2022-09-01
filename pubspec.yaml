@@ -1,7 +1,7 @@
 name: flutter_ng_waveform
 description: Flutter plugin for displaying waveform with other Flutter
   widgets on Android, iOS.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/J999999/flutter_ng_waveform
 
 environment:
