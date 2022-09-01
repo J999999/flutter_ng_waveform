@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#include <EZAudio/EZAudio.h>
+#import "EZAudio.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
